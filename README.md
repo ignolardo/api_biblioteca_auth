@@ -1,1 +1,1 @@
-API Biblioteca
+API Biblioteca with authentication and authorization
